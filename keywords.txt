@@ -1,0 +1,20 @@
+###########################################
+# Syntax Coloring Map For
+Arduino library for IoT-Resort platform
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Thing	KEYWORD1
+IoT-Resort KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+
+SetIoTValue KEYWORD2
+GetIoTControlParameter KEYWORD2
+
