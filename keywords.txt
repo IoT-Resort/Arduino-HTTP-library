@@ -8,13 +8,13 @@ Arduino library for IoT-Resort platform
 ###########################################
 
 Thing	KEYWORD1
-IoT-Resort KEYWORD1
+IoT-Resort	KEYWORD1
 
 ###########################################
 # Methods and Functions (KEYWORD2)
 ###########################################
 
 
-SetIoTValue KEYWORD2
-GetIoTControlParameter KEYWORD2
+SetIoTValue	KEYWORD2
+GetIoTControlParameter	KEYWORD2
 
